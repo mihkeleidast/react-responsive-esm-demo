@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-responsive": "^10.0.0"
+  },
+  "devDependencies": {
+    "rollup": "^4.34.8"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  }
+}
